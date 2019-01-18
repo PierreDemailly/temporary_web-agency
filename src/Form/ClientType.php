@@ -14,7 +14,6 @@ class ClientType extends AbstractType
         $builder
             ->add('firstname')
             ->add('lastname')
-            ->add('token')
         ;
     }
 
